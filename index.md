@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+## Кубики Пенька
+Здарова агалы. Здесь я вам покажу как настроить и запустить кубы чтобы поиграть на Пеньке
 
-You can use the [editor on GitHub](https://github.com/Penek-Gaming/kubiki/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Регистрация на Ely.by
+Так как своя система авторизации и лаунчер еще в разработке, но не хочется, чтобы кто попало мог заходить под чужими никами и гриферить письки, то мы прибегнем к пиратскому аналогу Можанг — Ely.by, йо-хо-хо! Зарегестрируйтесь там по ссылке https://ely.by/ и запомните почту и пароль — под ними потом будете входить в лаунчер. Скин тоже можно поставить.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Установка сборки
+В принципе, есть два варианта установки
+1. [Ой, я здесь новенький...](./long-install.md) (рекомендуется)
+2. [Я уже смешарик](./simple-install.md)
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Penek-Gaming/kubiki/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+1-й опишет всё от и до, а 2-й подойдет тем, у кого уже есть лаунчер с поддержкой Ele.by (например, [TLauncher](tlaun.ch/jar) или [UltimMC](https://nightly.link/AfoninZ/MultiMC5-Cracked/workflows/main/develop))
