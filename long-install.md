@@ -1,5 +1,5 @@
 ## Установка с нуля
-1. Скачайте лаунчер со сборкой [отсюда](http://dl.penek.tv.s3.wasabisys.com/UltimMC_Penek.7z)
+1. Скачайте лаунчер со сборкой [отсюда](https://drive.google.com/file/d/1S8hZ6VYHnorIm-fT6a-_Y10mSShEVSB3/view?usp=sharing)
 2. Распакуйте в любую удобную папку
 3. Откройте файл UltimMC.exe
 4. Когда откроется окно с предложением выбрать Java — просто закройте его, нажав на крестик
