@@ -6,10 +6,10 @@
 
 ## Установка сборки
 В принципе, есть два варианта установки
-1. [Ой, я здесь новенький...](./long-install.md) (рекомендуется)
-2. [Я уже смешарик](./simple-install.md)
+1. [Если вы скачиваете впервые и у вас нет лаунчера PollyMC](./long-install.md)
+2. [Если у вас уже есть PollyMC](./simple-install.md)
 
-1-й опишет всё от и до, а 2-й подойдет тем, у кого уже есть лаунчер с поддержкой Ele.by (например, [TLauncher](tlaun.ch/jar) или [UltimMC](https://nightly.link/AfoninZ/MultiMC5-Cracked/workflows/main/develop))
+1-й опишет всё от и до, а 2-й подойдет тем, у кого уже есть лаунчер с поддержкой Ele.by (например, [TLauncher](tlaun.ch/jar) или [PollyMC](https://github.com/fn2006/PollyMC/releases/latest))
 
 ## Обновление сборки
 1. [Частичное обновление](./update-fast.md) — использовать в случае, если нужно поставить немного обновлений
